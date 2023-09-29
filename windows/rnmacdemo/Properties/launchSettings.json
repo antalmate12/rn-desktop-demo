@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "rnmacdemo (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "rnmacdemo (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
